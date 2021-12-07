@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) {
-        Tester example
+        Tester example;
         System.out.println("Choose how many items are needed in collections?");
         System.out.println("A. 10000 \nB. 50000 \nC. 100000");
         String flag = "";
